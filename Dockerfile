@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/fluentd-elasticsearch:1.22
+FROM gcr.io/google_containers/kibana:v4.6.1-1
