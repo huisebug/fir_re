@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.6.3
+FROM gcr.io/google_containers/heapster-grafana-amd64:v4.0.2
