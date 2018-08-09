@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/gb-frontend:v3
+FROM gcr.io/google-containers/ip-masq-agent-amd64:v2.0.0
