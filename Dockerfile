@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/ip-masq-agent-amd64:v2.0.0
+FROM gcr.io/google_containers/addon-resizer:1.0
