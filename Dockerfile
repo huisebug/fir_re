@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/addon-resizer:1.0
+FROM gcr.io/google_containers/kubernetes-helm-tiller:v2.3.1
