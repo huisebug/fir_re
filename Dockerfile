@@ -1,1 +1,1 @@
-FROM sz-pg-oam-docker-hub001.tendcloud.com/library/kubernetes-helm-tiller:v2.3.1
+FROM gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.15
