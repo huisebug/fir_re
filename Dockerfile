@@ -29,7 +29,7 @@ RUN apk add git && \
 	tar -zxvf mycat2*-linux.tar.gz && \
 	mkdir /usr/local/mycat2 && \
 	mv mycat2 /usr/local
-COPY mycat_conf/* /usr/local/mycat2/conf
+COPY datasource.yml /usr/local/mycat2/conf
 RUN mkdir /usr/local/mycat2/logs
 
 EXPOSE 3306
