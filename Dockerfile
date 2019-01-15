@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/pause:3.1
+FROM quay.io/calico/node:v3.4.0
