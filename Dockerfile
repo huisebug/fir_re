@@ -1,1 +1,1 @@
-FROM quay.io/calico/node:v3.4.0
+FROM quay.io/calico/kube-controllers:v3.4.0
