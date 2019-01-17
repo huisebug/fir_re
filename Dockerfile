@@ -1,1 +1,1 @@
-FROM quay.io/calico/typha:v0.7.4
+FROM quay.io/calico/cni:v3.1.3
