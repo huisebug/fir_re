@@ -1,1 +1,1 @@
-FROM quay.io/calico/ctl:v3.4
+FROM quay.io/calico/ctl:v3.4.0
