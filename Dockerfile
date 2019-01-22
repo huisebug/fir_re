@@ -1,1 +1,3 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
+FROM busybox 
+WORKDIR /tmp
+RUN wget https://dl.k8s.io/v1.12.5/kubernetes-server-linux-amd64.tar.gz
