@@ -1,1 +1,1 @@
-FROM quay.io/pires/docker-elasticsearch-kubernetes:6.2.4
+FROM docker.elastic.co/kibana/kibana-oss:6.2.4
