@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana-oss:6.3.2
+FROM quay.io/coreos/kube-rbac-proxy:v0.4.1
