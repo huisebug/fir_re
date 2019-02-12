@@ -1,1 +1,1 @@
-FROM quay.io/coreos/kube-rbac-proxy:v0.4.1
+FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.4.1
