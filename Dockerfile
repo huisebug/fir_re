@@ -1,1 +1,2 @@
-FROM quay.io/coreos/k8s-prometheus-adapter-amd64:v0.4.1
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.21.0
+
