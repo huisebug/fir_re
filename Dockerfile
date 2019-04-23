@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/install-cni:master-latest-daily
+FROM k8s.gcr.io/addon-resizer:1.8.4
