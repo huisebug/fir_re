@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/defaultbackend:1.4
+FROM gcr.io/google-containers/event-exporter:v0.1.7
