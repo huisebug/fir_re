@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/event-exporter:v0.2.3
+FROM quay.io/coreos/etcd:v3.4.3
