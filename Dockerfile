@@ -1,3 +1,1 @@
-FROM huisebug/jenkinsbuild:jmndka
-
-RUN curl -sL https://deb.nodesource.com/setup_14.x | bash - && apt-get install -y nodejs
+FROM k8s.gcr.io/pause:3.2
