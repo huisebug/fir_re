@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/pause:3.2
+FROM docker.io/huisebug/kubernetespkg:v1.20.5
