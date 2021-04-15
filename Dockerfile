@@ -1,1 +1,1 @@
-FROM huisebug/kubernetespkg:v1.20.5
+FROM huisebug/etcd:v3.4.10-ctr
