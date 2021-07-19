@@ -1,8 +1,5 @@
-FROM jenkins/inbound-agent:4.3-4
+FROM debian:10
 MAINTAINER huisebug Turnbull "huisebug@outlook.com"
-
-#切换到root用户进行安装,因为docker客户端的原因，不可以切换回jenkins用户
-USER root
 
 #替换dibian源为阿里云源
 RUN sed -i s@/deb.debian.org/@/mirrors.aliyun.com/@g /etc/apt/sources.list \
