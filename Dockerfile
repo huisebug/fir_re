@@ -1,1 +1,1 @@
-FROM quay.io/coreos/flannel:v0.15.1
+FROM gcr.io/etcd-development/etcd:v3.5.5
