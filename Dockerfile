@@ -1,1 +1,1 @@
-FROM gcr.io/etcd-development/etcd:v3.4.10
+FROM elastic/filebeat:8.4.3
