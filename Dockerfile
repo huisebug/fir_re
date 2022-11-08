@@ -1,1 +1,1 @@
-FROM elastic/filebeat:8.5.0
+FROM bitnami/kafka:2.6.0
