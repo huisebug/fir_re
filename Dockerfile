@@ -1,1 +1,1 @@
-FROM bitnami/zookeeper:3.5.10
+FROM huisebug/nfs-subdir-external-provisioner:v4.0.0
