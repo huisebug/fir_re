@@ -1,1 +1,1 @@
-FROM gcr.io/heptio-images/eventrouter:latest
+FROM ghcr.io/kube-vip/kube-vip:v0.5.11
