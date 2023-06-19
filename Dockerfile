@@ -1,1 +1,1 @@
-FROM docker.io/flannel/flannel:v0.22.0
+FROM coredns/coredns:1.10.1
