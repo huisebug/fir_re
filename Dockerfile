@@ -1,1 +1,1 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+FROM docker.io/flannel/flannel-cni-plugin:v1.1.2
