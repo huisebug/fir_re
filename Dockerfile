@@ -1,1 +1,1 @@
-FROM huisebug/nfs-subdir-external-provisioner:v4.0.0
+FROM registry.k8s.io/sig-storage/nfs-subdir-external-provisioner
