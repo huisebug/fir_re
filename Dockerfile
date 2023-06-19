@@ -1,1 +1,1 @@
-FROM grafana/grafana:9.5.2
+FROM huisebug/nfs-subdir-external-provisioner:v4.0.0
