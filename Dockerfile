@@ -1,1 +1,1 @@
-FROM coredns/coredns:1.10.1
+FROM grafana/grafana:9.5.2
